@@ -9,7 +9,7 @@ const App = () => {
     <div>
       <Navbar />
       <br /><br /><br /><br />
-      <h2 style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>This is a demo webpage for Practicing Open Source 😉</h2>
+      <h2 style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>This webpage is only for experiencing Open Source Contributions 😉</h2>
       
       <Content />
       <hr />
