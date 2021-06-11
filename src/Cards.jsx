@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card'
+import "./Card.css"
 import CardDeck from 'react-bootstrap/CardDeck'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
@@ -10,8 +11,8 @@ const Cards = (props) => {
   return (
     <>
     <Container>
-    <Row>
-    <Col>
+    <Row >
+    <Col className="d-flex flex-wrap">
     <div>
       <CardDeck>
         <Card>
