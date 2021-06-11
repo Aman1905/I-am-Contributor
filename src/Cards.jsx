@@ -10,7 +10,7 @@ import Button from 'react-bootstrap/Button'
 const Cards = (props) => {
   return (
     <>
-    <Container>
+    <Container className ="aman-container">
     <Row >
     <Col className="d-flex flex-wrap">
     <div>

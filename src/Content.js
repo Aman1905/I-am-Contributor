@@ -1,9 +1,10 @@
 import React from 'react'
 import Cards from './Cards'
+import "./Content.css"
 
 const Content = () => {
   return (
-    <div>
+    <div className="main-cont">
 
       <Cards
         sname="Aman Chopra"
