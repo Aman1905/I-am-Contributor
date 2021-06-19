@@ -35,6 +35,16 @@ const Content = () => {
         g_link="https://github.com/sonalsingh25"
         t_link ="https://twitter.com/sonalsingh_77" />
 
+    <Cards
+        sname="Aniket Singh"
+        skill1="C++"
+        skill2="HTML"
+        skill3="Js"
+        skill4="Bootstrap"
+        l_link="https://www.linkedin.com/in/aniket-singh-23b1101a8/"
+        g_link="https://github.com/Aniketsingh1411"
+        t_link ="https://twitter.com/AniketS71180497?s=09" />
+
     </div>
   )
 }
