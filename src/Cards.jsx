@@ -20,7 +20,6 @@ const Cards = (props) => {
           <Card.Text>
             <h6>Hello Everyone 👋</h6>
           </Card.Text>
-          
             <h3>{props.sname}</h3>
             <h6>My Skills are :-</h6>
             <Card.Text>
