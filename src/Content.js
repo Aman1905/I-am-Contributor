@@ -25,6 +25,7 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/priyanshu-haldar-61b2731aa/"
         g_link="https://github.com/priyanshuhaldar007"
         t_link ="https://twitter.com/PriyanshuHalda5" />
+    
     <Cards
         sname="Sonal Singh"
         skill1="Java"
@@ -54,16 +55,28 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
         g_link="https://github.com/nilisha-jais"
         t_link ="https://twitter.com/jaiswal_nilu05" />
+
     
-     <Cards
-        sname="Nilisha Jaiswal"
+      
+      <Cards
+        sname="Sahana J"
+        skill1="HTML"
+        skill2="CSS"
+        skill3="Js(basics)"
+        skill4="Python, C++, Python"
+        l_link="https://www.linkedin.com/in/sahanajayakumar01/"
+        g_link="https://github.com/Sahanajayakumar" />
+        
+    <Cards
+        sname="Prasanth Grandhe"
         skill1="Web Developer"
-        skill2="C++"
+        skill2="C+"
         skill3="Js"
-        skill4="DevOps"
-        l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
-        g_link="https://github.com/nilisha-jais"
-        t_link ="https://twitter.com/jaiswal_nilu05" />
+        skill4="HTML"
+        l_link="www.linkedin.com/in/grandheprasanth"
+        g_link="https://github.com/prasanthgrandhe"
+        t_link ="" />
+
     
      <Cards
         sname="Harshitha A Reddy"
@@ -75,6 +88,37 @@ const Content = () => {
         g_link="https://github.com/harshithamar"
         t_link ="https://twitter.com/harshithamar" />
 
+    
+     <Cards
+        sname="Amitha Kamath"
+        skill1="Biotech"
+        skill2="Content Writing"
+        l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211"
+        g_link=""
+        t_link =""/>
+        
+
+
+      <Cards
+        sname="Lingaraj Sahu"
+        skill1="C"
+        skill2="C++"
+        skill3="Python"
+        skill4="HTML"
+        l_link="www.linkedin.com/in/lingarajsahu"
+        g_link="https://github.com/lingaraj281"
+        t_link ="https://twitter.com/Lingara24759434" />
+
+
+    <Cards
+        sname="Dipika Ray"
+        skill1="HTML"
+        skill2="CSS(learning)"
+        skill3="Java"
+        skill4="C++"
+        l_link="https://www.linkedin.com/in/dipika-ray-503b68214/"
+        g_link=""https://github.com/dia2git"
+        t_link ="" />
 
     </div>
   )
