@@ -66,6 +66,15 @@ const Content = () => {
         t_link ="https://twitter.com/jaiswal_nilu05" />
 
 
+     <Cards
+        sname="Shivanand Kundargi"
+        skill1="HTML"
+        skill2="C++"
+        skill3="Css"
+        skill4="python"
+        g_link="https://github.com/shivanandkundarg"
+       
+
     </div>
   )
 }
