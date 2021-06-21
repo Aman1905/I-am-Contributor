@@ -54,25 +54,14 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
         g_link="https://github.com/nilisha-jais"
         t_link ="https://twitter.com/jaiswal_nilu05" />
-    
-     <Cards
-        sname="Nilisha Jaiswal"
-        skill1="Web Developer"
-        skill2="C++"
-        skill3="Js"
-        skill4="DevOps"
-        l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
-        g_link="https://github.com/nilisha-jais"
-        t_link ="https://twitter.com/jaiswal_nilu05" />
-
-
+ 
      <Cards
         sname="Shivanand Kundargi"
         skill1="HTML"
         skill2="C++"
         skill3="Css"
         skill4="python"
-        g_link="https://github.com/shivanandkundarg"
+        g_link="https://github.com/shivanandkundargi"
        
 
     </div>
