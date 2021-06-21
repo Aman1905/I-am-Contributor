@@ -64,6 +64,16 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
         g_link="https://github.com/nilisha-jais"
         t_link ="https://twitter.com/jaiswal_nilu05" />
+    
+     <Cards
+        sname="Harshitha A Reddy"
+        skill1="Front End Development"
+        skill2="Python"
+        skill3="C++"
+        skill4="Java"
+        l_link="https://www.linkedin.com/in/harshitha-a-reddy/"
+        g_link="https://github.com/harshithamar"
+        t_link ="https://twitter.com/harshithamar" />
 
 
     </div>
