@@ -62,11 +62,9 @@ const Content = () => {
         skill1="HTML"
         skill2="CSS"
         skill3="Js(basics)"
-
         skill4="Python, C++, Python"
         l_link="https://www.linkedin.com/in/sahanajayakumar01/"
-        g_link="https://github.com/Sahanajayakumar"
-         />
+        g_link="https://github.com/Sahanajayakumar" />
         
     <Cards
         sname="Prasanth Grandhe"
@@ -77,7 +75,8 @@ const Content = () => {
         l_link="www.linkedin.com/in/grandheprasanth"
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
-<Cards
+    
+    <Cards
         sname="Dipika Ray"
         skill1="HTML"
         skill2="CSS(learning)"
