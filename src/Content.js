@@ -79,11 +79,25 @@ const Content = () => {
 
     
      <Cards
+        sname="Harshitha A Reddy"
+        skill1="Front End Development"
+        skill2="Python"
+        skill3="C++"
+        skill4="Java"
+        l_link="https://www.linkedin.com/in/harshitha-a-reddy/"
+        g_link="https://github.com/harshithamar"
+        t_link ="https://twitter.com/harshithamar" />
+
+    
+     <Cards
         sname="Amitha Kamath"
         skill1="Biotech"
         skill2="Content Writing"
-        l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211" />
+        l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211"
+        g_link=""
+        t_link =""/>
         
+
 
       <Cards
         sname="Lingaraj Sahu"
