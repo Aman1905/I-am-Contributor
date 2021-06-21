@@ -76,6 +76,16 @@ const Content = () => {
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
     
+      <Cards
+        sname="Lingaraj Sahu"
+        skill1="C"
+        skill2="C++"
+        skill3="Python"
+        skill4="HTML"
+        l_link="www.linkedin.com/in/lingarajsahu"
+        g_link="https://github.com/lingaraj281"
+        t_link ="https://twitter.com/Lingara24759434" />
+
     <Cards
         sname="Dipika Ray"
         skill1="HTML"
@@ -86,7 +96,6 @@ const Content = () => {
         g_link=""https://github.com/dia2git"
         t_link ="" />
 
-// this is for pull req
     </div>
   )
 }
