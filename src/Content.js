@@ -54,19 +54,40 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
         g_link="https://github.com/nilisha-jais"
         t_link ="https://twitter.com/jaiswal_nilu05" />
+
     
-       <Cards
+      
+      <Cards
         sname="Sahana J"
         skill1="HTML"
         skill2="CSS"
         skill3="Js(basics)"
+
         skill4="Python, C++, Python"
         l_link="https://www.linkedin.com/in/sahanajayakumar01/"
         g_link="https://github.com/Sahanajayakumar"
          />
+        
+    <Cards
+        sname="Prasanth Grandhe"
+        skill1="Web Developer"
+        skill2="C+"
+        skill3="Js"
+        skill4="HTML"
+        l_link="www.linkedin.com/in/grandheprasanth"
+        g_link="https://github.com/prasanthgrandhe"
+        t_link ="" />
+<Cards
+        sname="Dipika Ray"
+        skill1="HTML"
+        skill2="CSS(learning)"
+        skill3="Java"
+        skill4="C++"
+        l_link="https://www.linkedin.com/in/dipika-ray-503b68214/"
+        g_link=""https://github.com/dia2git"
+        t_link ="" />
 
-
-
+// this is for pull req
     </div>
   )
 }
