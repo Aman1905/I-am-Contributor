@@ -64,6 +64,15 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/"
         g_link="https://github.com/nilisha-jais"
         t_link ="https://twitter.com/jaiswal_nilu05" />
+    
+     <Cards
+        sname="Amitha Kamath"
+        skill1="Biotech"
+        skill2="Content Writing"
+        l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211" />
+        
+        
+
 
 
     </div>
