@@ -117,8 +117,18 @@ const Content = () => {
         skill3="Java"
         skill4="C++"
         l_link="https://www.linkedin.com/in/dipika-ray-503b68214/"
-        g_link=""https://github.com/dia2git"
+        g_link="https://github.com/dia2git"
         t_link ="" />
+        
+      <Cards
+        sname="Lavish Arora"
+        skill1="C/C++"
+        skill2="Web Devepoler (biginner)"
+        skill3="HTML"
+        skill4="CSS"
+        l_link="https://www.linkedin.com/in/lavish-arora-30/"
+        g_link="https://github.com/Lavisharora30"
+        t_link ="https://twitter.com/Lavish_arora_30" />  
 
     </div>
   )
