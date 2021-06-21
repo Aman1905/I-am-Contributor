@@ -119,6 +119,16 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/dipika-ray-503b68214/"
         g_link=""https://github.com/dia2git"
         t_link ="" />
+    
+    <Cards
+        sname="ANSHIKA SINGH"
+        skill1="FULL STACK WEB DEVELOPMENT"
+        skill2="APP DEVELOPMENT"
+        skill3="PYTHON CODER"
+        skill4="c, JAVA"
+        l_link="https://www.linkedin.com/in/anshika-singh-b50488188"
+        g_link="https://github.com/singhanshika311/"
+        t_link ="" />
 
     </div>
   )
