@@ -25,6 +25,7 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/priyanshu-haldar-61b2731aa/"
         g_link="https://github.com/priyanshuhaldar007"
         t_link ="https://twitter.com/PriyanshuHalda5" />
+    
     <Cards
         sname="Sonal Singh"
         skill1="Java"
@@ -75,7 +76,15 @@ const Content = () => {
         l_link="www.linkedin.com/in/grandheprasanth"
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
+
     
+     <Cards
+        sname="Amitha Kamath"
+        skill1="Biotech"
+        skill2="Content Writing"
+        l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211" />
+        
+
       <Cards
         sname="Lingaraj Sahu"
         skill1="C"
@@ -85,6 +94,7 @@ const Content = () => {
         l_link="www.linkedin.com/in/lingarajsahu"
         g_link="https://github.com/lingaraj281"
         t_link ="https://twitter.com/Lingara24759434" />
+
 
     <Cards
         sname="Dipika Ray"
