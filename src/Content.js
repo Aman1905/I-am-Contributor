@@ -72,7 +72,15 @@ const Content = () => {
         l_link="www.linkedin.com/in/grandheprasanth"
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
-
+      <Cards
+        sname="Lavish Arora"
+        skill1="C/C++"
+        skill2="HTML"
+        skill3="CSS"
+        skill4="Web Developer"
+        l_link="https://www.linkedin.com/in/lavish-arora-30/"
+        g_link="https://github.com/Lavisharora30"
+        t_link ="https://twitter.com/Lavish_arora_30" />
 
 // this is for pull req
     </div>
