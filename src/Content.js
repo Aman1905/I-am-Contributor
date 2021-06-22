@@ -209,6 +209,13 @@ const Content = () => {
         g_link="https://github.com/gowshika111"
         t_link ="" />
     
+    sname="Sushma Kulkarni"
+        skill1="c"
+        skill2="html"
+        l_link="https://www.linkedin.com/in/sushma-kulkarni-022229191/"
+        g_link="https://github.com/sushma2108"
+        t_link ="" />
+
     
     
     </div>
