@@ -117,7 +117,7 @@ const Content = () => {
         skill3="Java"
         skill4="C++"
         l_link="https://www.linkedin.com/in/dipika-ray-503b68214/"
-        g_link=""https://github.com/dia2git"
+        g_link="https://github.com/dia2git"
         t_link ="" />
 
     </div>
