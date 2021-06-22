@@ -76,6 +76,15 @@ const Content = () => {
         l_link="www.linkedin.com/in/grandheprasanth"
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
+    <Cards
+        sname="Aditya Prasad"
+        skill1="Web Developer (Novice)"
+        skill2="Cloud (GCP)"
+        skill3="Python"
+        skill4="Java"
+        l_link="https://www.linkedin.com/in/aditya-panigrahy-59bba8192/"
+        g_link="https://github.com/aditya687"
+        t_link ="https://twitter.com/AdityaP35096998" />
 
     
      <Cards
@@ -119,7 +128,49 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/dipika-ray-503b68214/"
         g_link="https://github.com/dia2git"
         t_link ="" />
+        
+      <Cards
+        sname="Lavish Arora"
+        skill1="C/C++"
+        skill2="Web Devepoler (biginner)"
+        skill3="HTML"
+        skill4="CSS"
+        l_link="https://www.linkedin.com/in/lavish-arora-30/"
+        g_link="https://github.com/Lavisharora30"
+        t_link ="https://twitter.com/Lavish_arora_30" />  
 
+    
+    <Cards
+        sname="Pradeep Kumar Jaiswal"
+        skill1="C"
+        skill2="C++"
+        skill3="Python"
+        skill4="HTML,CSS"
+        l_link="https://www.linkedin.com/in/pradeep-kumar-jaiswal-b403a61a1"
+        g_link="https://github.com/pkj19"
+        t_link ="https://mobile.twitter.com/Pradeep02716281" />
+    
+   <Cards
+        sname="ANSHIKA SINGH"
+        skill1="FULL STACK WEB DEVELOPER"
+        skill2="ANDROID DEVELOPER"
+        skill3="PYTHON CODER"
+        skill4="JAVA,C"
+        l_link="https://www.linkedin.com/in/anshika-singh-b50488188"
+        g_link="https://github.com/singhanshika311/"
+        t_link ="" />
+
+
+
+    <Cards
+        sname="Paras Gupta"
+        skill1="HTML"
+        skill2="C"
+        skill3="Digital marketing"
+        skill4="C++"
+        l_link="https://www.linkedin.com/in/parasshares"
+        g_link=""https://github.com/Parasguptas"
+        t_link ="" />
     </div>
   )
 }
