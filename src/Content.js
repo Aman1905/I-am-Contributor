@@ -76,6 +76,15 @@ const Content = () => {
         l_link="www.linkedin.com/in/grandheprasanth"
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
+    <Cards
+        sname="Aditya Prasad"
+        skill1="Web Developer (Novice)"
+        skill2="Cloud (GCP)"
+        skill3="Python"
+        skill4="Java"
+        l_link="https://www.linkedin.com/in/aditya-panigrahy-59bba8192/"
+        g_link="https://github.com/aditya687"
+        t_link ="https://twitter.com/AdityaP35096998" />
 
     
      <Cards
