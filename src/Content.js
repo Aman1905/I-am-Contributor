@@ -169,7 +169,7 @@ const Content = () => {
         skill3="Digital marketing"
         skill4="C++"
         l_link="https://www.linkedin.com/in/parasshares"
-        g_link=""https://github.com/Parasguptas"
+        g_link="https://github.com/Parasguptas"
         t_link ="" />
     </div>
   )
