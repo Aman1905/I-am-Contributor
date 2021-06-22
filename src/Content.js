@@ -171,6 +171,20 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/parasshares"
         g_link="https://github.com/Parasguptas"
         t_link ="" />
+    
+    
+    <Cards
+        sname="N.M.Gowshika"
+        skill1="HTML"
+        skill2="CSS"
+        skill3="Java"
+        skill4="python"
+        l_link="https://www.linkedin.com/in/gowshika-n-m-1316121ba"
+        g_link="https://github.com/gowshika111"
+        t_link ="" />
+    
+    
+    
     </div>
   )
 }
