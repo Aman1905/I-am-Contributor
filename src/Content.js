@@ -209,6 +209,18 @@ const Content = () => {
         g_link="https://github.com/gowshika111"
         t_link ="" />
     
+     <Cards
+        sname="SAUMYA SRIVASTAV"
+        skill1=" WEB DEVELOPER (BEGINNER)"
+        skill2="HTML"
+        skill3="CSS"
+        skill4="C"
+        l_link="https://www.linkedin.com/in/saumya-srivastav-4238a91a8"
+        g_link="https://github.com/Saumya2001-PSIT/"
+        t_link ="" />
+    
+    
+    
     
     
     </div>
