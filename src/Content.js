@@ -63,7 +63,6 @@ const Content = () => {
         skill4="python"
         g_link="https://github.com/shivanandkundargi"
        
-
     </div>
   )
 }
