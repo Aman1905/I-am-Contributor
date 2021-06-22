@@ -131,6 +131,15 @@ const Content = () => {
         t_link ="" />
 
 
+    <Cards
+        sname="Paras Gupta"
+        skill1="HTML"
+        skill2="C"
+        skill3="Digital marketing"
+        skill4="C++"
+        l_link="https://www.linkedin.com/in/parasshares"
+        g_link=""https://github.com/Parasguptas"
+        t_link ="" />
     </div>
   )
 }
