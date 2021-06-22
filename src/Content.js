@@ -56,6 +56,17 @@ const Content = () => {
         g_link="https://github.com/nilisha-jais"
         t_link ="https://twitter.com/jaiswal_nilu05" />
 
+ 
+     <Cards
+        sname="Shivanand Kundargi"
+        skill1="HTML"
+        skill2="C++"
+        skill3="Css"
+        skill4="python"
+        g_link="https://github.com/shivanandkundargi" />
+       
+
+
     
       
       <Cards
@@ -76,6 +87,7 @@ const Content = () => {
         l_link="www.linkedin.com/in/grandheprasanth"
         g_link="https://github.com/prasanthgrandhe"
         t_link ="" />
+    
     <Cards
         sname="Aditya Prasad"
         skill1="Web Developer (Novice)"
@@ -104,7 +116,7 @@ const Content = () => {
         skill2="Content Writing"
         l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211"
         g_link=""
-        t_link =""/>
+        t_link ="" />
         
 
 
@@ -182,12 +194,6 @@ const Content = () => {
         g_link="https://github.com/anutoshi111"
         t_link ="" />
 
-    
-    
-   
-
-
-
     <Cards
         sname="Paras Gupta"
         skill1="HTML"
@@ -226,9 +232,7 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/saumya-srivastav-4238a91a8"
         g_link="https://github.com/Saumya2001-PSIT/"
         t_link ="" />
-    
-    
-    
+
     </div>
   )
 }
