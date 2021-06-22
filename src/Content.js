@@ -130,6 +130,16 @@ const Content = () => {
         t_link ="" />
     
     <Cards
+        sname="Pradeep Kumar Jaiswal"
+        skill1="C"
+        skill2="C++"
+        skill3="Python"
+        skill4="HTML,CSS"
+        l_link="https://www.linkedin.com/in/pradeep-kumar-jaiswal-b403a61a1"
+        g_link="https://github.com/pkj19"
+        t_link ="https://mobile.twitter.com/Pradeep02716281" />
+    
+   <Cards
         sname="ANSHIKA SINGH"
         skill1="FULL STACK WEB DEVELOPER"
         skill2="ANDROID DEVELOPER"
