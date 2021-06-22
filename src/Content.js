@@ -15,6 +15,15 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/aman-chopra-375a81171/"
         g_link="https://github.com/Aman1905"
         t_link ="https://twitter.com/iam_chopra_aman" />
+    
+       <Cards
+        sname="Priya Sharma"
+        skill1="Python3"
+        skill2="C++"
+        skill3="Data Science"
+        skill4="Cloud (AWS)"
+        l_link="https://www.linkedin.com/in/devprisha/"
+        g_link="https://github.com/DevPriSha"/>
 
       <Cards
         sname="Priyanshu Haldar"
