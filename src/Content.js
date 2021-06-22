@@ -209,6 +209,14 @@ const Content = () => {
         g_link="https://github.com/gowshika111"
         t_link ="" />
     
+      <Cards
+        sname="Sushma Kulkarni"
+        skill1="c"
+        skill2="html"
+        l_link="https://www.linkedin.com/in/sushma-kulkarni-022229191/"
+        g_link="https://github.com/sushma2108"
+        t_link ="" />
+
      <Cards
         sname="SAUMYA SRIVASTAV"
         skill1=" WEB DEVELOPER (BEGINNER)"
@@ -218,8 +226,6 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/saumya-srivastav-4238a91a8"
         g_link="https://github.com/Saumya2001-PSIT/"
         t_link ="" />
-    
-    
     
     
     
