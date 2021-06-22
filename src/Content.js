@@ -169,6 +169,22 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/anshika-singh-b50488188"
         g_link="https://github.com/singhanshika311/"
         t_link ="" />
+    
+    
+    
+    <Cards
+        sname="Anutoshi"
+        skill1="Java"
+        skill2="HTML"
+        skill3="CSS"
+        skill4="SQL"
+        l_link="https://www.linkedin.com/in/anutoshi-9359aa188"
+        g_link="https://github.com/anutoshi111"
+        t_link ="" />
+
+    
+    
+   
 
 
 
