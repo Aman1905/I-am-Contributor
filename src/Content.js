@@ -64,10 +64,7 @@ const Content = () => {
         skill3="Css"
         skill4="python"
         g_link="https://github.com/shivanandkundargi" />
-       
-
-
-    
+      
       
       <Cards
         sname="Sahana J"
