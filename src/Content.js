@@ -123,7 +123,6 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/amitha-kamath-0b5010211"
         g_link=""
         t_link ="" />
-        
 
 
       <Cards
@@ -188,8 +187,6 @@ const Content = () => {
         g_link="https://github.com/singhanshika311/"
         t_link ="" />
     
-    
-    
     <Cards
         sname="Anutoshi"
         skill1="Java"
@@ -210,6 +207,15 @@ const Content = () => {
         g_link="https://github.com/Parasguptas"
         t_link ="" />
     
+    <Cards
+        sname="Suryadipsinh Vaghela"
+        skill1="C"
+        skill2="C++"
+        skill4="Python"
+        skill3="Digital marketing"
+        l_link="https://www.linkedin.com/in/suryadipsinh-vaghela-4a1595203"
+        g_link="https://github.com/Suryadipsinh"
+        t_link ="https://twitter.com/SuryadipsinhV" />
     
     <Cards
         sname="N.M.Gowshika"
