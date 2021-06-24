@@ -238,6 +238,17 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/saumya-srivastav-4238a91a8"
         g_link="https://github.com/Saumya2001-PSIT/"
         t_link ="" />
+    
+    <Cards
+        sname="SWATHI A"
+        skill1=" WEB DEVELOPER (BEGINNER)"
+        skill2="HTML"
+        skill3="CSS"
+        skill4="C"
+        l_link="https://www.linkedin.com/in/swathi-a-9857841a5"
+        g_link="https://github.com/swathi-469"
+        t_link ="https://mobile.twitter.com/SwathiA94998471" />
+    
 
     </div>
   )
