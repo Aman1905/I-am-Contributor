@@ -254,6 +254,16 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/swathi-a-9857841a5"
         g_link="https://github.com/swathi-469"
         t_link ="https://mobile.twitter.com/SwathiA94998471" />
+
+    <Cards
+        sname="Suraj Landage"
+        skill1="Java"
+        skill2="HTML"
+        skill3="CSS"
+        skill4="C"
+        l_link="https://www.linkedin.com/in/surajlandage"
+        g_link="https://github.com/mortallll"
+        t_link ="" />
     
 
     </div>
