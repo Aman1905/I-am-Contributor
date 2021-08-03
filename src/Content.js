@@ -265,6 +265,16 @@ const Content = () => {
         g_link="https://github.com/mortallll"
         t_link ="" />
     
+       <Cards
+        sname="Anurag sharma"
+        skill1="Java"
+        skill2="android"
+        skill3="CSS"
+        skill4="C"
+        l_link=""
+        g_link="https://github.com/anuragsharma8174"
+        t_link ="" />
+    
 
     </div>
   )
