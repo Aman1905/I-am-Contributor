@@ -275,9 +275,18 @@ const Content = () => {
         g_link="https://github.com/anuragsharma8174"
         t_link ="" />
     
+    <Cards
+        sname="Shiv Ghosh"
+        skill1="Java"
+        skill2="android"
+        skill3="CSS"
+        skill4="C"
+        l_link=""
+        g_link="https://github.com/shivghosh8"
+        t_link ="" />
+    
 
     </div>
   )
 }
-
 export default Content
