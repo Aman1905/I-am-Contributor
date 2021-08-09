@@ -264,8 +264,9 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/surajlandage"
         g_link="https://github.com/mortallll"
         t_link ="" />
+
     <Cards
-        sname="Suraj Landage"
+        sname="Shivam"
         skill1="Java"
         skill2="HTML"
         skill3="CSS"
@@ -273,9 +274,49 @@ const Content = () => {
         l_link="  "
         g_link="https://github.com/Shivam-programmer"
         t_link ="" />
+    
+       <Cards
+        sname="Anurag sharma"
+        skill1="Java"
+        skill2="android"
+        skill3="CSS"
+        skill4="C"
+        l_link=""
+        g_link="https://github.com/anuragsharma8174"
+        t_link ="" />
+    
+    <Cards
+        sname="Shiv Ghosh"
+        skill1="Java"
+        skill2="android"
+        skill3="CSS"
+        skill4="C"
+        l_link=""
+        g_link="https://github.com/shivghosh8"
+        t_link ="" />
+    
+    <Cards
+        sname="Shubhangi Trivedi"
+        skill1="C/C++"
+        skill2="Web Devepoler (biginner)"
+        skill3="HTML"
+        skill4="CSS"
+        l_link=""
+        g_link="https://github.com/SHUBHANGITRIVEDI"
+        t_link ="" /> 
+    
+        <Cards
+        sname="Ishita"
+        skill1="HTML"
+        skill2="JavaScript"
+        skill3="CSS"
+        skill4="C++"
+        l_link=""
+        g_link="https://github.com/ishita1427"
+        t_link ="" />
+    
 
     </div>
   )
 }
-
 export default Content
