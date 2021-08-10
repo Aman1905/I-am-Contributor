@@ -275,6 +275,15 @@ const Content = () => {
         g_link="https://github.com/anuragsharma8174"
         t_link ="" />
     
+    <Cards
+        sname="Honey Baranwal"
+        skill1="C++"
+        skill2="Python"
+        skill3="HTML"
+        skill4="C"
+        l_link="https://www.linkedin.com/in/honey-baranwal-398904202/"
+        g_link="https://github.com/Honey-B-263"
+        t_link ="" />
 
     </div>
   )
