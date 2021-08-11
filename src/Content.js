@@ -325,6 +325,15 @@ const Content = () => {
         g_link="https://github.com/rohit1427"
         t_link ="" />
     
+    <Cards
+        sname="Shashank"
+        skill1="Python"
+        skill2="Data Science"
+        skill3="HTML"
+        skill4="CSS"
+        l_link=""
+        g_link="https://github.com/Shashankkrj"
+        t_link ="" />
 
     </div>
   )
