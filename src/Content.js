@@ -286,6 +286,15 @@ const Content = () => {
         t_link ="" />
     
     <Cards
+        sname="Honey Baranwal"
+        skill1="C++"
+        skill2="Python"
+        skill3="HTML"
+        skill4="C"
+        l_link="https://www.linkedin.com/in/honey-baranwal-398904202/"
+        g_link="https://github.com/Honey-B-263" />
+    
+<Cards
         sname="Shiv Ghosh"
         skill1="Java"
         skill2="android"
