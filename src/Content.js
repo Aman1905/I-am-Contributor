@@ -264,6 +264,16 @@ const Content = () => {
         l_link="https://www.linkedin.com/in/surajlandage"
         g_link="https://github.com/mortallll"
         t_link ="" />
+
+    <Cards
+        sname="Shivam"
+        skill1="Java"
+        skill2="HTML"
+        skill3="CSS"
+        skill4="C"
+        l_link="  "
+        g_link="https://github.com/Shivam-programmer"
+        t_link ="" />
     
        <Cards
         sname="Anurag sharma"
@@ -282,11 +292,69 @@ const Content = () => {
         skill3="HTML"
         skill4="C"
         l_link="https://www.linkedin.com/in/honey-baranwal-398904202/"
-        g_link="https://github.com/Honey-B-263"
+        g_link="https://github.com/Honey-B-263" />
+    
+<Cards
+        sname="Shiv Ghosh"
+        skill1="Java"
+        skill2="android"
+        skill3="CSS"
+        skill4="C"
+        l_link=""
+        g_link="https://github.com/shivghosh8"
+        t_link ="" />
+    
+    <Cards
+        sname="Shubhangi Trivedi"
+        skill1="C/C++"
+        skill2="Web Devepoler (biginner)"
+        skill3="HTML"
+        skill4="CSS"
+        l_link=""
+        g_link="https://github.com/SHUBHANGITRIVEDI"
+        t_link ="" /> 
+    
+        <Cards
+        sname="Ishita"
+        skill1="HTML"
+        skill2="JavaScript"
+        skill3="CSS"
+        skill4="C++"
+        l_link=""
+        g_link="https://github.com/ishita1427"
+        t_link ="" />
+    
+        <Cards
+        sname="G.Rohit"
+        skill1="HTML"
+        skill2="JavaScript"
+        skill3="CSS"
+        skill4="C++"
+        l_link=""
+        g_link="https://github.com/rohit1427"
+        t_link ="" />
+        
+        <Cards
+            sname="Vanshika"
+            skill1="C++"
+            skill2="HTML"
+            skill3="CSS"
+            skill4="C"
+            l_link=""
+            g_link="https://github.com/GUPTAVANSHIKA"
+            t_link ="" />
+    
+    <Cards
+        sname="Shashank"
+        skill1="Python"
+        skill2="Data Science"
+        skill3="HTML"
+        skill4="CSS"
+        l_link=""
+        g_link="https://github.com/Shashankkrj"
         t_link ="" />
 
     </div>
   )
 }
-
 export default Content
