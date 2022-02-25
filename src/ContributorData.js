@@ -5,6 +5,19 @@ const ContributorData = [
 
   {
     id: 1,
+    name: "Akshat Mittal",
+    img: "https://raw.githubusercontent.com/akshatmittal61/akshatmittal61/master/src/images/favicon.png",
+    skill1: "MERN Stack Developer",
+    skill2: "SASS",
+    skill3: "C++",
+    skill4: "Poetry",
+    l_link: "https://www.linkedin.com/in/akshatmittal61/",
+    g_link: "https://www.github.com/akshatmittal61",
+    t_link: "https://twitter.com/akshatmittal61",
+  },
+
+  {
+    id: 1,
     name: "Aman Chopra",
     img: boy,
     skill1: "MERN Developer",
