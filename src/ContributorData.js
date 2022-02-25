@@ -5,7 +5,7 @@ const ContributorData = [
 
   {
     id: 1,
-    name: "Akshat Mittal",
+    name: <><a href='https://akshatmittal61.github.io/akshatmittal61/' target='_blank' rel="noreferrer">Akshat Mittal</a></>,
     img: "https://raw.githubusercontent.com/akshatmittal61/akshatmittal61/master/src/images/favicon.png",
     skill1: "MERN Stack Developer",
     skill2: "SASS",
