@@ -1,6 +1,10 @@
 body{
     background-color: #f7f7ff;
 }
+a,a:hover,a:visited,a:active,a:focus{
+    text-decoration: none;
+    color: inherit;
+}
 .btn-white {
     background-color: #fff;
     border-color: #e7eaf3;
