@@ -1,11 +1,20 @@
-import boy from './assets/boy.png'
-import girl from './assets/girl.png'
+import boy from "./assets/boy.png";
+import girl from "./assets/girl.png";
 
 const ContributorData = [
-
   {
     id: 1,
-    name: <><a href='https://akshatmittal61.github.io/akshatmittal61/' target='_blank' rel="noreferrer">Akshat Mittal</a></>,
+    name: (
+      <>
+        <a
+          href="https://akshatmittal61.github.io/akshatmittal61/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Akshat Mittal
+        </a>
+      </>
+    ),
     img: "https://raw.githubusercontent.com/akshatmittal61/akshatmittal61/master/src/images/favicon.png",
     skill1: "MERN Stack Developer",
     skill2: "SASS",
@@ -50,69 +59,69 @@ const ContributorData = [
     skill4: "Java",
     l_link: "https://www.linkedin.com/in/priyanshu-haldar-61b2731aa/",
     g_link: "https://github.com/priyanshuhaldar007",
-    t_link: "https://twitter.com/PriyanshuHalda5" ,
+    t_link: "https://twitter.com/PriyanshuHalda5",
   },
 
   {
     id: 4,
     img: girl,
-    name:"Sonal Singh",
-    skill1:"Java",
-    skill2:"HTML",
-    skill3:"CSS",
-    skill4:"Bootstrap",
-    l_link:"https://www.linkedin.com/in/sonalsingh25/",
-    g_link:"https://github.com/sonalsingh25",
-    t_link:"https://twitter.com/sonalsingh_77" ,
+    name: "Sonal Singh",
+    skill1: "Java",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "Bootstrap",
+    l_link: "https://www.linkedin.com/in/sonalsingh25/",
+    g_link: "https://github.com/sonalsingh25",
+    t_link: "https://twitter.com/sonalsingh_77",
   },
 
   {
     id: 5,
     img: boy,
-    name:"Aniket Singh",
-    skill1:"C++",
-    skill2:"HTML",
-    skill3:"Js",
-    skill4:"Bootstrap",
-    l_link:"https://www.linkedin.com/in/aniket-singh-23b1101a8/",
-    g_link:"https://github.com/Aniketsingh1411",
-    t_link:"https://twitter.com/AniketS71180497?s=09",
+    name: "Aniket Singh",
+    skill1: "C++",
+    skill2: "HTML",
+    skill3: "Js",
+    skill4: "Bootstrap",
+    l_link: "https://www.linkedin.com/in/aniket-singh-23b1101a8/",
+    g_link: "https://github.com/Aniketsingh1411",
+    t_link: "https://twitter.com/AniketS71180497?s=09",
   },
 
   {
     id: 6,
     img: girl,
-    name:"Nilisha Jaiswal",
-    skill1:"Web Developer",
-    skill2:"C++",
-    skill3:"Js",
-    skill4:"DevOps",
-    l_link:"https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/",
-    g_link:"https://github.com/nilisha-jais",
-    t_link:"https://twitter.com/jaiswal_nilu05",
+    name: "Nilisha Jaiswal",
+    skill1: "Web Developer",
+    skill2: "C++",
+    skill3: "Js",
+    skill4: "DevOps",
+    l_link: "https://www.linkedin.com/in/nilisha-jaiswal-7980061b2/",
+    g_link: "https://github.com/nilisha-jais",
+    t_link: "https://twitter.com/jaiswal_nilu05",
   },
 
   {
     id: 7,
     img: boy,
-    name:"Shivanand Kundargi",
-    skill1:"HTML",
-    skill2:"C++",
-    skill3:"Css",
-    skill4:"python",
-    g_link:"https://github.com/shivanandkundargi",
+    name: "Shivanand Kundargi",
+    skill1: "HTML",
+    skill2: "C++",
+    skill3: "Css",
+    skill4: "python",
+    g_link: "https://github.com/shivanandkundargi",
   },
 
   {
     id: 8,
     img: girl,
-    name:"Sahana J",
-    skill1:"HTML",
-    skill2:"CSS",
-    skill3:"Js(basics)",
-    skill4:"Python",
-    l_link:"https://www.linkedin.com/in/sahanajayakumar01/",
-    g_link:"https://github.com/Sahanajayakumar",
+    name: "Sahana J",
+    skill1: "HTML",
+    skill2: "CSS",
+    skill3: "Js(basics)",
+    skill4: "Python",
+    l_link: "https://www.linkedin.com/in/sahanajayakumar01/",
+    g_link: "https://github.com/Sahanajayakumar",
   },
   {
     id: 9,
@@ -142,13 +151,13 @@ const ContributorData = [
     id: 11,
     img: boy,
     name: "Aditya Prasad",
-    skill1:"Web Developer (Novice)",
-    skill2:"Cloud (GCP)",
-    skill3:"Python",
-    skill4:"Java",
-    l_link:"https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
-    g_link:"https://github.com/aditya687",
-    t_link:"https://twitter.com/AdityaP35096998",
+    skill1: "Web Developer (Novice)",
+    skill2: "Cloud (GCP)",
+    skill3: "Python",
+    skill4: "Java",
+    l_link: "https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
+    g_link: "https://github.com/aditya687",
+    t_link: "https://twitter.com/AdityaP35096998",
   },
 
   {
@@ -157,20 +166,20 @@ const ContributorData = [
     name: "Amitha Kamath",
     skill1: "Biotech",
     skill2: "Content Writing",
-    l_link: "https://www.linkedin.com/in/amitha-kamath-0b5010211,"
+    l_link: "https://www.linkedin.com/in/amitha-kamath-0b5010211,",
   },
 
   {
     id: 13,
     img: boy,
-    name:"Lingaraj Sahu",
-    skill1:"C",
-    skill2:"C++",
-    skill3:"Python",
-    skill4:"HTML",
-    l_link:"www.linkedin.com/in/lingarajsahu",
-    g_link:"https://github.com/lingaraj281",
-    t_link:"https://twitter.com/Lingara24759434",
+    name: "Lingaraj Sahu",
+    skill1: "C",
+    skill2: "C++",
+    skill3: "Python",
+    skill4: "HTML",
+    l_link: "www.linkedin.com/in/lingarajsahu",
+    g_link: "https://github.com/lingaraj281",
+    t_link: "https://twitter.com/Lingara24759434",
   },
 
   {
@@ -187,7 +196,7 @@ const ContributorData = [
   {
     id: 15,
     img: boy,
-    name :"Siddharth Parashar",
+    name: "Siddharth Parashar",
     skill1: "C",
     skill2: "C++",
     skill3: "Git/Github",
@@ -210,7 +219,7 @@ const ContributorData = [
   {
     id: 17,
     img: boy,
-    name :"Lavish Arora",
+    name: "Lavish Arora",
     skill1: "C/C++",
     skill2: "Web Devepoler (biginner)",
     skill3: "HTML",
@@ -271,7 +280,7 @@ const ContributorData = [
   {
     id: 22,
     img: girl,
-    name :"Sushma Kulkarni",
+    name: "Sushma Kulkarni",
     skill1: "c",
     skill2: "html",
     l_link: "https://www.linkedin.com/in/sushma-kulkarni-022229191/",
@@ -281,13 +290,13 @@ const ContributorData = [
   {
     id: 23,
     img: boy,
-    name:"Suraj Landage",
-    skill1:"Java",
-    skill2:"HTML",
-    skill3:"CSS",
-    skill4:"C",
-    l_link:"https://www.linkedin.com/in/surajlandage",
-    g_link:"https://github.com/mortallll",
+    name: "Suraj Landage",
+    skill1: "Java",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "C",
+    l_link: "https://www.linkedin.com/in/surajlandage",
+    g_link: "https://github.com/mortallll",
   },
 
   {
@@ -304,31 +313,31 @@ const ContributorData = [
   {
     id: 25,
     img: boy,
-    name:"Shivam",
-    skill1:"Java",
-    skill2:"HTML",
-    skill3:"CSS",
-    skill4:"C",
-    g_link:"https://github.com/Shivam-programmer",
+    name: "Shivam",
+    skill1: "Java",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "C",
+    g_link: "https://github.com/Shivam-programmer",
   },
   {
     id: 26,
     img: girl,
-    name:"SWATHI A",
-    skill1:" WEB DEVELOPER (BEGINNER)",
-    skill2:"HTML",
-    skill3:"CSS",
-    skill4:"C",
-    l_link:"https://www.linkedin.com/in/swathi-a-9857841a5",
-    g_link:"https://github.com/swathi-469",
-    t_link:"https://mobile.twitter.com/SwathiA94998471",
+    name: "SWATHI A",
+    skill1: " WEB DEVELOPER (BEGINNER)",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "C",
+    l_link: "https://www.linkedin.com/in/swathi-a-9857841a5",
+    g_link: "https://github.com/swathi-469",
+    t_link: "https://mobile.twitter.com/SwathiA94998471",
   },
 
   {
     id: 27,
     img: boy,
     name: "Anurag sharma",
-    skill1: "Java" ,
+    skill1: "Java",
     skill2: "android",
     skill3: "CSS",
     skill4: "C",
@@ -404,14 +413,23 @@ const ContributorData = [
   {
     id: 34,
     img: boy,
-    name :"Shashank",
+    name: "Shashank",
     skill1: "Python",
     skill2: "Data Science",
     skill3: "HTML",
     skill4: "CSS",
     g_link: "https://github.com/Shashankkrj",
   },
+  {
+    id: 35,
+    img: boy,
+    name: "Aditya",
+    skill1: "ML",
+    skill2: "Data Science",
+    skill3: "HTML",
+    skill4: "Cloud",
+    g_link: "https://github.com/AdityaPSingh3",
+  },
+];
 
-]
-
-export default ContributorData
+export default ContributorData;
