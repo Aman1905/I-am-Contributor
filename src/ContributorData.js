@@ -398,6 +398,17 @@ const ContributorData = [
     g_link: "https://github.com/Shashankkrj",
   },
 
+  {
+    id: 35,
+    img: girl,
+    name :"Arpita",
+    skill1: "C",
+    skill2: "C++",
+    skill3: "HTML5",
+    skill4: "CSS3",
+    g_link: "https://github.com/ArpitaNag",
+  },
+
 ]
 
 export default ContributorData
