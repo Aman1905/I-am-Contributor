@@ -418,8 +418,17 @@ const ContributorData = [
     skill3: "HTML5",
     skill4: "CSS3",
     g_link: "https://github.com/ArpitaNag",
-  }
-
+  },
+  {
+    id: 37,
+    img: boy,
+    name :"Priyangshu",
+    skill1: "C",
+    skill2: "C++",
+    skill3: "HTML 5",
+    skill4: "CSS 3",
+    g_link: "https://github.com/General-Xamor",
+  },
 ]
 
 export default ContributorData
