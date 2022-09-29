@@ -409,6 +409,16 @@ const ContributorData = [
     g_link: "https://github.com/adarshranjan12",
     l_link: "https://www.linkedin.com/in/adarsh-ranjan/",
   },
+  {
+    id: 36,
+    img: girl,
+    name :"Arpita",
+    skill1: "C",
+    skill2: "C++",
+    skill3: "HTML5",
+    skill4: "CSS3",
+    g_link: "https://github.com/ArpitaNag",
+  }
 
 ]
 
